@@ -26,5 +26,4 @@ The Accuracy Results are summarized in the table below:
 
 The best highest accuracy acore is given by Random Forest for Simple Random, Cluster and Systematic Sampling i.e., 0.9742 respectively.
 
-Anadya Sahai
-102103021
+Anadya Sahai<br>102103021
